@@ -1,0 +1,19 @@
+Group_name,Number of Occurences
+Huntingdon GMs,1
+GCP Team FR,1
+SML Group GMs,1
+Eastend GMs,2
+Huntingdon And LiZ Area GMs,1
+86A,1
+Okta_FR_Local,1
+Okta-Global_YOOBIC,1
+Darlington Group GMs,1
+Gurgaon-Shops,2
+Hillingdon West Group,1
+Coffee subs & loyalty team,2
+Revatta_SSO,1
+Electron,1
+TM-Electron,1
+Partners in GR,2
+JOP Team FR,1
+Catering services team,1
